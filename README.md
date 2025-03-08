@@ -8,5 +8,5 @@ Email : farianowsin13614@gmail.com <br/>
 University : Shanto-Mariam University Of Creative Technology <br/>
 
 # Preview:
-you guys can only download the "rock paper scissors application file.zip" file and run the executable from there.. no need to install qt and built and run the whole project :)
+you guys can only download the "rock paper scissors application file.zip" file and run the executable from there.. no need to install qt and built and run the whole project :) <br/>
 ![download](https://github.com/user-attachments/assets/e57d6738-0f93-45ef-97e3-2c4464f8bbdb)
